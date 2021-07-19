@@ -1,0 +1,19 @@
+{
+  "name": "proj6-staticnodeexpress",
+  "version": "1.0.0",
+  "description": "My sixth project for the Full Stack JavaScript Techdegree program at Treehouse",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramoshe/proj6-staticNodeExpress.git"
+  },
+  "author": "Rachel Sherard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramoshe/proj6-staticNodeExpress/issues"
+  },
+  "homepage": "https://github.com/ramoshe/proj6-staticNodeExpress#readme"
+}
