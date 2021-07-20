@@ -12,12 +12,45 @@ app.get('/', (req, res, next) => {
 
 app.get('/about', (req, res, next) => {
     res.render('about');
+    next();
 });
 
 app.get('/project/:id', (req, res, next) => {
     const { id } = req.params;
     const project = data.projects[id];
-    res.render('project', { project });
+
+    if (project) {
+        res.render('project', { project });
+    } else {
+        const err = new Error();
+        err.status = 404;
+        err.message = 'Oops! Requested project does not exist.';
+        next(err);
+    }
+});
+
+app.use((req, res, next) => {
+    console.log('Handling 404 error');
+    const err = new Error();
+    err.status = 404;
+    err.message = 'Uh oh! Page not found!';
+    console.log(err.status, err.message);
+    next(err);
+});
+
+app.use((err, req, res, next) => {
+    console.log('Global error handler');
+    if (err.status === 404) {
+        console.log(err.status, err.message);
+        res.status(404);
+        res.send(err.message);
+    } else {
+        const err = new Error();
+        err.message = err.message || 'Oh no, there was an error!';
+        console.log(err.status, err.message);
+        res.status(500);
+        res.send(err.message);
+    }
 });
 
 app.listen(3000, () => {
