@@ -273,6 +273,9 @@ nav a span {
 
 .about-bio p {
   font-size: 15px;
+}
+
+.about-bio p:first-child {
   padding-top: 40px;
 }
 
