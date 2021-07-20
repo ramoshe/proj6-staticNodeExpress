@@ -8,7 +8,6 @@ html(lang="en" dir="ltr")
     link(href='https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700,800', rel='stylesheet')
     link(rel='stylesheet', href='/static/css/normalize.css')
     link(rel='stylesheet', href='/static/css/styles.css')
-
   body
     #my-info.sidebar
       .sidebar-info-box
@@ -16,20 +15,13 @@ html(lang="en" dir="ltr")
         .thumbnail-box
           img.thumbnail(src='/static/images/profile-image.jpg', alt='')
         .dev-intro-box
-
           h5 Rachel Sherard
-
           p I'm a Full Stack JavaScript Developer with a passion for User Experience Design. I've been working on completing the Treehouse Techdegree program. This website was created to showcase the things that I have created so far in this course.
-
           a(href='/about') Learn More &rarr;
-
     .wrapper
       .header
         .header-info-box
           button#menu-icon.menu-icon(type='button' data-toggle='my-info')
-
           span Rachel Sherard
-
       block content
-
-  script(src='/static/js/script.js')
+    script(src='/static/js/script.js')

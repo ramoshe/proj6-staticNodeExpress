@@ -1,18 +1,12 @@
 extends layout.pug
 
 block content
-
   article.portfolio-intro
-
     h1 Welcome to my portfolio!
-
     p Here you can see the web development projects that I have created so far! Each project includes a link to a live web site of the project as well as a link to the GitHub repository where you can see my code.
-
   article.portfolio-project-thumbs
     .projects-box.box.grid
- 
       each project in projects
-
         .cell
           a(href=`/project/${project.id}`)
             img.thumbnail(src=`/static/${project.image_urls[0]}`, alt=`Thumbnail of ${project.project_name}`)
