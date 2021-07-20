@@ -1,0 +1,130 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Quote Generator",
+            "description": "An app that displays a random quote (from a list of quotes) with a random color background.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "live_link": "https://g.ramoshe.com/proj1=quoteGenerator/",
+            "github_link": "https://github.com/ramoshe/proj1-quoteGenerator",
+            "image_urls": [
+                "images/p1-main.jpg",
+                "images/p1-image1.jpg",
+                "images/p1-image2.jpg",
+                "images/p1-image3.jpg"
+            ]
+        },
+        {
+            "id": 1,
+            "project_name": "RSVP App",
+            "description": "An app to track responses from event invitees.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "live_link": "https://g.ramoshe.com/unit2-RSVPapp/",
+            "github_link": "https://github.com/ramoshe/unit2-RSVPapp",
+            "image_urls": [
+                "images/p2-main.jpg",
+                "images/p2-image1.jpg",
+                "images/p2-image2.jpg"            ]
+        },
+        {
+            "id": 2,
+            "project_name": "Data Pagination and Filtering",
+            "description": "An app that displays student info that is searchable and broken up into multiple pages.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "live_link": "https://g.ramoshe.com/proj2-dataPagFilter/",
+            "github_link": "https://github.com/ramoshe/proj2-dataPagFilter",
+            "image_urls": [
+                "images/p3-main.jpg",
+                "images/p3-image1.jpg",
+                "images/p3-image2.jpg",
+                "images/p3-image3.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "project_name": "Interactive Form",
+            "description": "A form that includes dynamic fields, conditional formatting, and error messaging.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "live_link": "https://g.ramoshe.com/proj3-interactiveForm/",
+            "github_link": "https://github.com/ramoshe/proj3-interactiveForm",
+            "image_urls": [
+                "images/p4-main.jpg",
+                "images/p4-image1.jpg",
+                "images/p4-image2.jpg",
+                "images/p4-image3.jpg",
+                "images/p4-image4.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "project_name": "Four In A Row",
+            "description": "An app that recreates the classic game \"Connect Four\" in a digital format.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "live_link": "https://g.ramoshe.com/unit4-fourInARow/",
+            "github_link": "https://github.com/ramoshe/unit4-fourInARow",
+            "image_urls": [
+                "images/p5-main.jpg",
+                "images/p5-image1.jpg",
+                "images/p5-image2.jpg",
+                "images/p5-image3.jpg"
+            ]
+        },
+        {
+            "id": 5,
+            "project_name": "Object Oriented Programming Game",
+            "description": "A game where the user has to guess a secret phrase, created using object-oriented programming methods.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "live_link": "https://g.ramoshe.com/proj4-OOPGame/",
+            "github_link": "https://github.com/ramoshe/proj4-OOPGame",
+            "image_urls": [
+                "images/p6-main.jpg",
+                "images/p6-image1.jpg",
+                "images/p6-image2.jpg",
+                "images/p6-image3.jpg",
+                "images/p6-image4.jpg"
+            ]
+        },
+        {
+            "id": 6,
+            "project_name": "Public API Requests",
+            "description": "An app that imports user objects from a public API and uses them to create an employee directory with modal pop-ups.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "live_link": "https://g.ramoshe.com/proj5-publicAPIRequests/",
+            "github_link": "https://github.com/ramoshe/proj5-publicAPIRequests",
+            "image_urls": [
+                "images/p7-main.jpg",
+                "images/p7-image1.jpg",
+                "images/p7-image2.jpg",
+                "images/p7-image3.jpg"
+            ]
+        }
+    ]
+}
