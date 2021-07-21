@@ -1,0 +1,8 @@
+extends layout 
+
+block content 
+  article.error.box
+    h1= err.status 
+    h2= err.message 
+    br
+    a.btn-link(href='/') Go Back Home
