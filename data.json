@@ -9,7 +9,7 @@
                 "CSS",
                 "JavaScript"
             ],
-            "live_link": "https://g.ramoshe.com/proj1=quoteGenerator/",
+            "live_link": "https://g.ramoshe.com/proj1-quoteGenerator/",
             "github_link": "https://github.com/ramoshe/proj1-quoteGenerator",
             "image_urls": [
                 "images/p1-main.jpg",
@@ -21,7 +21,7 @@
         {
             "id": 1,
             "project_name": "RSVP App",
-            "description": "An app to track responses from event invitees.",
+            "description": "An app to track responses from event invitees. Includes features to add notes and filter responses.",
             "technologies": [
                 "HTML",
                 "CSS",
