@@ -1,6 +1,6 @@
 # FSJS Project 6: Static Node.js and Express Site
  
-My sixth project for the Full Stack JavaScript Techdegree program at Treehouse. A portfolio website built using Node.js and Express showcasing my first 5 Treehouse projects.
+My sixth project for the Full Stack JavaScript Techdegree program at Treehouse. A portfolio website built using Node.js and Express. This showcases my first 5 Treehouse projects.
 
 ## How To Use
  - You can view a live version of this project here: https://g.ramoshe.com/thp6-staticNodeExpress/
@@ -15,6 +15,8 @@ My sixth project for the Full Stack JavaScript Techdegree program at Treehouse. 
  - added shadows to buttons
 
 ## Project Description
+*From Treehouse*
+
 So far you've worked with a lot of "client-side" JavaScript. Which is just an industry way of saying JavaScript in the browser. All of the JavaScript you've written for the first five projects in this Techdegree is run right in the browser. Now it's time to continue your journey out of the browser and start writing some powerful "server-side" JavaScript.
 
 In this project, you'll create a gorgeous portfolio site to showcase the great projects you've built. The site will contain a modern landing page, an about page where you'll have a chance to share contact info, practice your elevator pitch and talk a little about yourself, and a series of project pages to show off and detail at least your first five projects from this Techdegree.
