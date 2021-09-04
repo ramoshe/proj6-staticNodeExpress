@@ -19,6 +19,7 @@
   "homepage": "https://github.com/ramoshe/proj6-staticNodeExpress#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "heroku": "^7.59.0",
     "pug": "^3.0.2"
   },
   "devDependencies": {
