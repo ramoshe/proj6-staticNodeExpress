@@ -1,6 +1,6 @@
-# FSJS Project 6 - Static Node.js and Express Site
+# FSJS Project 6: Static Node.js and Express Site
  
-My sixth project for the Full Stack JavaScript Techdegree program at Treehouse
+My sixth project for the Full Stack JavaScript Techdegree program at Treehouse. A portfolio website built using Node.js and Express showcasing my first 5 Treehouse projects.
 
 ## How To Use
  - You can view a live version of this project here: https://g.ramoshe.com/thp6-staticNodeExpress/
