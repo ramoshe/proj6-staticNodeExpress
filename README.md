@@ -4,9 +4,11 @@ My sixth project for the Full Stack JavaScript Techdegree program at Treehouse. 
 
 ## How To Use
  - You can view a live version of this project here: https://g.ramoshe.com/thp6-staticNodeExpress/
+ 
  - If you want a local copy of the project:
     1. Download the files: https://github.com/ramoshe/thp6-staticNodeExpress/archive/refs/heads/main.zip
-    2. Open the `index.html` file in your browser
+    2. In the console, navigate to the main project folder and run `npm start`
+    3. In your browser go to http://localhost:3000
 
 ## Extra Credit - Custom Styles
  - changed sidebar color
