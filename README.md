@@ -3,7 +3,7 @@
 My sixth project for the Full Stack JavaScript Techdegree program at Treehouse. A portfolio website built using Node.js and Express. This showcases my first 5 Treehouse projects.
 
 ## How To Use
- - You can view a live version of this project here: https://g.ramoshe.com/thp6-staticNodeExpress/
+ - You can view a live version of this project here: https://thp6-staticnodeexpress.herokuapp.com
  - If you want a local copy of the project:
     1. Download the files: https://github.com/ramoshe/thp6-staticNodeExpress/archive/refs/heads/main.zip
     2. In the console, navigate to the main project folder and run `npm install` and then `npm start`
