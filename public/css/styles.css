@@ -119,7 +119,7 @@ nav a {
   font-size: 13px;
   letter-spacing: 2.5px;
   text-transform: uppercase;
-  color: #555; 
+  color: #555;
 }
 
 nav a span {
@@ -151,7 +151,7 @@ nav a span {
 .sidebar .thumbnail {
   width: 100%;
   max-width: 250px;
-  border: 4px solid #fff;
+  /* border: 4px solid #fff; */
 }
 
 .dev-intro-box {
@@ -173,10 +173,10 @@ nav a span {
 .sidebar a {
   font-family: 'Poppins', 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 600;
-  font-size: 13px;
+  font-size: 17px;
   letter-spacing: 2.5px;
   text-transform: uppercase;
-  color: #555;
+  color: #ccc;
 }
 
 .header {
@@ -263,8 +263,8 @@ nav a span {
 }
 
 
-/* 
-  About and project pages styles 
+/*
+  About and project pages styles
 */
 .about-intro-box p,
 .project-info-box p {
@@ -305,12 +305,12 @@ nav a span {
 }
 
 
-/* 
-  Tablet layout styles 
+/*
+  Tablet layout styles
 */
 @media screen and (min-width: 768px) {
   .sidebar h5 {
-    font-size: 1.25rem;
+    font-size: 1.5rem;
   }
 
   .portfolio-intro h1 {
@@ -345,8 +345,8 @@ nav a span {
 }
 
 
-/* 
-  Desktop layout styles 
+/*
+  Desktop layout styles
 */
 @media screen and (min-width: 1024px) {
   .sidebar {

@@ -1,6 +1,9 @@
 # FSJS Project 6: Static Node.js and Express Site
- 
+
 My sixth project for the Full Stack JavaScript Techdegree program at Treehouse. A portfolio website built using Node.js and Express. This showcases my first 5 Treehouse projects.
+
+## Icon/Photo Credit
+The icon the is used in this project as the profile photo was made by [Flat Icons](https://www.flaticon.com/authors/flat-icons) from https://www.flaticon.com/"
 
 ## How To Use
  - You can view a live version of this project here: https://thp6-staticnodeexpress.herokuapp.com
